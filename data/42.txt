@@ -1,0 +1,31 @@
+Ža, Ža, Ňa, Ňa, Ťa, Ťa, Ža, Ža, Ňa, Ňa, Ťa, Ťa, Ža, Ža, Ňa, Ňa, Ťa,
+Řa, Ša, Řa, Ša, Řa, Ša, Řa, Ša, Řa, Ša, Řa, Ša, Řa, Ša, Řa, Ša, Řa,
+Ďa, Ča, Ďa, Ča, Ďa, Ča, Ďa, Ča, Ďa, Ča, Ďa, Ča, Ďa, Ča, Ďa, Ča, Ďa,
+Úa, Óa, Éů, Áů, Úa, Óa, Éů, Áů, Úa, Óa, Éů, Áů, Úa, Óa, Éů, Áů, Úa,
+Železniční stavitesltví, Železniční opravny a strojírny,
+Řempo, oborový podnik, Ředitelství dálnic, Řemesla a služby Orlová
+Škoda, koncernový podnik, Šumavské vápenice, Šohaj, národní podnik,
+Čokoládovny, oborový podnik, Česká státní spořitelna,
+Ďumbier, výrobní družstvo, Ďáblice, Ďumbier, výrobní družstvo,
+Ústřední rada odborů, Ústav národního zdraví, Úpavan Trutnov,
+Železárny Bílá Cerkev, Šroubárna Žatec, Školní statek Čáslav,
+Český báňský úřad, Čedok, cestovní kancelář, České loděnice, Praha,
+Útvar hlavního architekta, Úřad pro vynálezy a objevy, Škodaexport,
+Škrobárny, oborový podnik, Čechofracht, podnik pro námořní dopravu,
+Ústřední podnik zemědělské techniky, Útvar dopravního inženýrství,
+Ústí nad Labem, Írán, Ázerbájdžán, Ósaka, Ábádán, Paul Éluard, Ámos,
+PRAHA, BRNO, OSTRAVA, BRATISLAVA, OLOMOUC, KLATOVY, KARLOVY VARY,
+SSSR, RVHP, KNV, ONV, MNV, JZD, ROH, SSM, SNR, KOOSPOL, UNESCO,
+PLZEŇ, DOMAŽLICE, HORAŽĎOVICE, PIEŠŤANY, PŘEROV, KOŠICE, PREŠOV,
+ČSSR, ČSR, ČNR, ČSAV, VŠE, SEŠ, ČKD, VŽKG, ČSAD, ČSD, ČSČK, ČTK,
+JESENÍKY, TÁBOR, PÍSEK, BLATNÁ, NÁCHOD, PÚCHOV, VRCHLABÍ, VSETÍN,
+KÚNZ, OÚNZ, ÚV KSČ, ÚV ČSTV, ÚV NF, ÚRO, ÚV SSM, ÚRD, ÚKRK,
+ČESKÉ BUDĚJOVICE, MARIÁNSKÉ LÁZNĚ, TRENČÍN, MĚLNÍK, ČESKÁ LÍPA,
+DŮVĚRNÉ, RŮZNÉ, DŮLEŽITÉ, PRAMEN-LAHŮDKY, STODŮLKY, DVŮR KRÁLOVÉ
+Göteborg je druhé největší město Švédska, Malmö je švédský přístav.
+Georg Friedrich Händel byl významný skladatel barokní hudby.
+Warnemünde patří k nejdůležitějším přístavním městům v NDR.
+Albrecht Dürer byl slavný malíř a grafik pozdní gotiky.
+Selma Lagerlöfová je autorkou slavného románu Gösta Berling.
+Lübeck je staré hanzovní město v NSR. Lützen je městečko v NDR.
+öre je skandinávská mince, pengö je stará maďarská peněžní jednotka,

@@ -1,0 +1,20 @@
+Psaní všemi deseti v. 1.5
+----------------------------------------------
+Program, který Vás nauèí psát všemi deseti...
+==============================================
+
+Licence:
+========
+Platí standardní podmínky pro freeware programy – viz. napøíklad GNU licence. Ty lze shrnout takto:
+
+
+Program Psaní všemi deseti
+
+·	smí být kýmkoliv bezplatnì užíván, a to po neomezenou dobu;
+·	vzhledem k bezplatnému poskytnutí se k programu nedává podpora jakéhokoliv druhu, tedy se neposkytuje ani pøípadný servis èi oprava chyb;
+·	ze stejného dùvodu nedává záruka jeho funkènosti a tvùrce programu nenese zodpovìdnost za pøípadné škody zpùsobené v souvislosti s používáním programu;
+·	program lze volnì šíøit a pøidávat do distribucí. Pøi šíøení programu si lze úètovat pouze adekvátní poplatky za službu kopírování a poskytnutá média, nikoliv však za program samotný;
+
+·	jakékoliv úpravy vlastního EXE programu jsou zakázané, avšak pøiložené lekce lze libovolnì modifikovat a doplòovat k nim další soubory za pøedpokladu, že upravené soubory budou opìt šíøené bezplatnì podle stejné licence jako tento p
+rogram.
+
